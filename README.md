@@ -11,7 +11,7 @@ You can download the CLI as well as a copy of the Software Bill of Materials (SB
 If you're new to Monaco and want to learn more, check out the [Observability Clinic on Monaco 2.0](https://dt-url.net/monaco-observability-clinic).
 
 ## Support for Monaco
-
+1
 The Dynatrace Configuration as Code tool Monaco is provided by Dynatrace Incorporated. \
 Support for Monaco 2.0+ is provided by the Dynatrace Support team, as described on the [support page](https://support.dynatrace.com/).
 
